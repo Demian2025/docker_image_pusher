@@ -2,3 +2,4 @@ python:3.10.15
 python:3.10.14-slim
 python:3.10.16-slim-bookworm
 debian:trixie
+nginx:stable-bookworm
