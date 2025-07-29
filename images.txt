@@ -1,5 +1,2 @@
 python:3.10.15
-python:3.10.14-slim
 python:3.10.16-slim-bookworm
- nginx:1.26.3
-neo4j:4.4.16-community
