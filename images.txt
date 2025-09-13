@@ -2,3 +2,4 @@ python:3.10.15
 python:3.10.16-slim-bookworm
 milvusdb/milvus:v2.5.4
 python:3.12.11-slim
+python:3.11.13-slim
