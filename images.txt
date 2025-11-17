@@ -1,6 +1,4 @@
-python:3.10.15
-python:3.10.16-slim-bookworm
+python:3.12.12
 milvusdb/milvus:v2.5.4
-python:3.12.11-slim
-python:3.11.13-slim
+python:3.12.12-slim
 elasticsearch:9.2.0
