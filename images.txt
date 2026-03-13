@@ -2,4 +2,4 @@ python:3.12.12
 milvusdb/milvus:v2.5.4
 python:3.12.12-slim
 elasticsearch:9.2.0
-python:3.10.14-slim
+pytorch/pytorch:2.7.1-cuda12.6-cudnn9-runtime
